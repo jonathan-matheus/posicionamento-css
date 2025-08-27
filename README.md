@@ -1,5 +1,7 @@
 # Projeto de Posicionamento CSS
 
+![Site](./readme.png)
+
 Este projeto foi desenvolvido durante o curso de HTML e CSS da Origamid. O objetivo principal é praticar e demonstrar diferentes técnicas de posicionamento de elementos utilizando CSS.
 
 ## Estrutura do Projeto
