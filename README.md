@@ -23,6 +23,8 @@ Este projeto foi desenvolvido durante o curso de HTML e CSS da Origamid. O objet
 1. Faça o download ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador de preferência.
 
+Ou acesse: https://jonathan-matheus.github.io/posicionamento-css/
+
 ## Créditos
 
 Curso: [Origamid - HTML e CSS para Iniciantes](https://www.origamid.com/)
